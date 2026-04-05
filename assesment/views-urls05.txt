@@ -1,0 +1,3 @@
+https://github.com/antondurov/tfjzl-final-cloud-app-with-database/blob/main/onlinecourse/views.py
+
+https://github.com/antondurov/tfjzl-final-cloud-app-with-database/blob/main/onlinecourse/urls.py
